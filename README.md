@@ -61,7 +61,7 @@ You can just run the Jupyter Notebook or you can run this command seperately
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Anirudh-Narra/HR_EDA-Project.git
+   git clone https://github.com/srik-d/HR-EDA.git
    ```
 
 2. Ensure you have the dataset (`HRDataset_v14.csv`) in the project directory.
