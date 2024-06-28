@@ -1,4 +1,4 @@
-# HR Analytics and Employee Attrition Prediction
+# HR Metrics and Employee Attrition Forecasting
 
 ## Overview
 
